@@ -9,4 +9,4 @@ def multiply(x,y):
     return x*y
 #Implementation Div
 def divide(x,y):
-    pass
+    return x/y
